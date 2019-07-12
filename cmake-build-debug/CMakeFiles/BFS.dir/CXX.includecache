@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yingnanzhao/Documents/GWU/Project/BFS/bfs.cpp
+bfs.h
+/Users/yingnanzhao/Documents/GWU/Project/BFS/bfs.h
+graph.h
+/Users/yingnanzhao/Documents/GWU/Project/BFS/graph.h
+
+/Users/yingnanzhao/Documents/GWU/Project/BFS/bfs.h
+head.h
+/Users/yingnanzhao/Documents/GWU/Project/BFS/head.h
+
+/Users/yingnanzhao/Documents/GWU/Project/BFS/graph.h
+head.h
+/Users/yingnanzhao/Documents/GWU/Project/BFS/head.h
+
+/Users/yingnanzhao/Documents/GWU/Project/BFS/head.h
+iostream
+-
+stdio.h
+-
+string
+-
+fstream
+-
+sstream
+-
+cstdlib
+-
+stdlib.h
+-
+
